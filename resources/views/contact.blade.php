@@ -12,6 +12,7 @@
     </head>
     <body>
         <h1>Contact with us</h1>
-    </body>
+    </body>     
+    {{-- // This is the content of the contact page --}}
     </html>
 @endsection
